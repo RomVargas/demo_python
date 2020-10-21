@@ -1,2 +1,2 @@
 # demo_python
-jercicio demo de Python y Docker
+ejercicio demo de Python y Docker
